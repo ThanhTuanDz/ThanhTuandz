@@ -1,4 +1,4 @@
-Viết lại code này // ==UserScript==
+// ==UserScript==
 // @name         THANH TUAN AUTO GTRAFFIC.IO v49.0.0 - KITTY ULTIMATE
 // @namespace    thanhtuan.gtraffic
 // @version      49.0.0-kitty-ultimate
